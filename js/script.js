@@ -16,4 +16,7 @@ const btn = document.getElementById("start");
 const grid = document.getElementById("grid");
 
 //creo funzione bottone per lo start
-btn.addEventListener("click", function () {});
+btn.addEventListener("click", function () {
+    //eseguo ciclo di 100 iterazione per creare la griglia 10x10
+    for (let i = 0; i < 100; i++)
+});
