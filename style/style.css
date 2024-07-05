@@ -4,6 +4,21 @@
     box-sizing: border-box;
 }
 
+header {
+    padding: 20px 10px;
+    background-color: navy;
+    margin-bottom: 50px;
+    text-align: right;
+}
+
+#start {
+    border: none;
+    color: navy;
+    background-color: #fff;
+    padding: 10px 30px;
+
+}
+
 #grid {
     max-width: 1200px;
     height: 1200px;
