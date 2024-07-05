@@ -26,3 +26,19 @@ header {
     display: flex;
     flex-wrap: wrap;
 }
+
+.square {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: calc(100% / 10);
+    height: calc(100% / 10);
+    background-color: green;
+    border: 1px solid #fff;
+    color: #fff;
+}
+
+.clicked-sky {
+    background-color: lightskyblue;
+
+}
