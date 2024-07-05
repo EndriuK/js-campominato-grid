@@ -8,3 +8,6 @@ function createSquare(value) {
   // restituisco il quadrato contenuto della variabile currentElement
   return currentElement;
 }
+
+// recupero pulsante dal dom
+const btn = document.getElementById("start");
