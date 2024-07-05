@@ -11,3 +11,6 @@ function createSquare(value) {
 
 // recupero pulsante dal dom
 const btn = document.getElementById("start");
+
+// recupero l'elemento che conterrà la mia griglia
+const grid = document.getElementById("grid");
